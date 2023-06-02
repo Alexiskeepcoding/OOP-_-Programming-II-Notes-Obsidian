@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "Abstraccion.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "Abstraccion.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "Abstraccion.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "Abstraccion.md"
               }
             }
           }
@@ -162,35 +162,35 @@
   },
   "active": "9f0e0e275044edf7",
   "lastOpenFiles": [
-    "2023-05-30.md",
-    "Buenas Practicas.md",
-    "Atributos.md",
+    "private.md",
+    "nivel de acceso.md",
+    "Métodos.md",
+    "Integrados.md",
+    "Instancia.md",
+    "Diagrama de clases.md",
+    "Dependencias.md",
+    "Constructores.md",
+    "Conceptos.md",
+    "Cohesión.md",
+    "Clase.md",
+    "Cohesion.md",
     "ciclo de vida.md",
+    "Atributos.md",
+    "Buenas Practicas.md",
+    "Acoplamiento.md",
     "Abstraccion.md",
     "README.md",
+    "2023-05-30.md",
     "Untitled.md",
     "Sustitucion de liskov.md",
     "Problemas de diseño.md",
-    "nivel de acceso.md",
     "Sobrecarga.md",
     "Principio de diseño.md",
     "Patrón de diseño.md",
     "Semana 1/Programación II.md",
-    "Diagrama de clases.md",
-    "Responsabilidad Única.md",
-    "Objetos.md",
-    "Diagrama de Classes.md",
-    "Cohesion.md",
-    "Clase.md",
     "Untitled.canvas",
-    "public.md",
-    "private.md",
-    "protected.md",
-    "Conceptos.md",
     "Untitled 3.canvas",
     "Untitled 2.canvas",
-    "Cohesión.md",
-    "Métodos.md",
     "Untitled 1.canvas",
     "Untitled 4.canvas",
     "Criptomodenas/Pasted image 20230518122534.png",
