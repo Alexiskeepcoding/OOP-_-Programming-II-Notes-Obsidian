@@ -25,14 +25,38 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Abstraccion.md",
+                "file": "nivel de acceso.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "17e29fe8d50aa384",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "public.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "bde2928c564d6b08",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "private.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -98,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Abstraccion.md",
+                "file": "public.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Abstraccion.md",
+                "file": "public.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Abstraccion.md"
+                "file": "public.md"
               }
             }
           }
@@ -160,11 +184,13 @@
       "obsidian42-brat:BRAT": false
     }
   },
-  "active": "9f0e0e275044edf7",
+  "active": "17e29fe8d50aa384",
   "lastOpenFiles": [
-    "private.md",
     "nivel de acceso.md",
+    "private.md",
+    "public.md",
     "Métodos.md",
+    "Abstraccion.md",
     "Integrados.md",
     "Instancia.md",
     "Diagrama de clases.md",
@@ -178,7 +204,6 @@
     "Atributos.md",
     "Buenas Practicas.md",
     "Acoplamiento.md",
-    "Abstraccion.md",
     "README.md",
     "2023-05-30.md",
     "Untitled.md",
@@ -187,7 +212,6 @@
     "Sobrecarga.md",
     "Principio de diseño.md",
     "Patrón de diseño.md",
-    "Semana 1/Programación II.md",
     "Untitled.canvas",
     "Untitled 3.canvas",
     "Untitled 2.canvas",
