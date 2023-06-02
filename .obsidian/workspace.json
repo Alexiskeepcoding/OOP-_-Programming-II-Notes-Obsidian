@@ -1,0 +1,261 @@
+{
+  "main": {
+    "id": "d4d8d5d61e2ccab6",
+    "type": "split",
+    "children": [
+      {
+        "id": "d79949078cc4ea13",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3fabc1dc876d1f1b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Principio de diseño.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "9f0e0e275044edf7",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          },
+          {
+            "id": "5ad9d0c858e77dcc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Sustitucion de liskov.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "40efc43e2271144a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "nivel de acceso.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "593dbafc934a8575",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Responsabilidad Única.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "fb9d8b494a60579d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Diagrama de clases.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "60790393863f3ed4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Abstraccion.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "773533641f1dedfb",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "f98cdc58675f7d72",
+    "type": "split",
+    "children": [
+      {
+        "id": "57bd8b0e20a0b2c7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4b23e05982738010",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "62132d4ec69938c0",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "09eb3567e21ca01a",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "9c5230e41585fdf9",
+    "type": "split",
+    "children": [
+      {
+        "id": "2905a21677349a58",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c8c3a2e017f77b54",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "50787ae130fba78b",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "926fef1965e36502",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "afcc06808514ce7e",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "markdown-importer:Open format converter": false,
+      "obsidian42-brat:BRAT": false
+    }
+  },
+  "active": "9f0e0e275044edf7",
+  "lastOpenFiles": [
+    "README.md",
+    "Untitled.md",
+    "Sustitucion de liskov.md",
+    "Problemas de diseño.md",
+    "nivel de acceso.md",
+    "Sobrecarga.md",
+    "Principio de diseño.md",
+    "Patrón de diseño.md",
+    "Buenas Practicas.md",
+    "Semana 1/Programación II.md",
+    "Diagrama de clases.md",
+    "Abstraccion.md",
+    "ciclo de vida.md",
+    "Responsabilidad Única.md",
+    "Objetos.md",
+    "Diagrama de Classes.md",
+    "Cohesion.md",
+    "Clase.md",
+    "Untitled.canvas",
+    "public.md",
+    "private.md",
+    "protected.md",
+    "Conceptos.md",
+    "2023-05-30.md",
+    "Untitled 3.canvas",
+    "Untitled 2.canvas",
+    "Cohesión.md",
+    "Atributos.md",
+    "Métodos.md",
+    "Untitled 1.canvas",
+    "Untitled 4.canvas",
+    "Criptomodenas/Pasted image 20230518122534.png",
+    "Criptomodenas",
+    "Semana 2",
+    "Semana 1"
+  ]
+}
