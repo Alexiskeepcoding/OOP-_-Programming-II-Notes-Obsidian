@@ -23,76 +23,12 @@
             "id": "9f0e0e275044edf7",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
-            }
-          },
-          {
-            "id": "5ad9d0c858e77dcc",
-            "type": "leaf",
-            "state": {
               "type": "markdown",
               "state": {
-                "file": "Sustitucion de liskov.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               }
-            }
-          },
-          {
-            "id": "40efc43e2271144a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "nivel de acceso.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "593dbafc934a8575",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Responsabilidad Única.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "fb9d8b494a60579d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Diagrama de clases.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "60790393863f3ed4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Abstraccion.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "773533641f1dedfb",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {}
             }
           }
         ],
@@ -162,6 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -178,6 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -199,7 +137,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "README.md"
+              }
             }
           }
         ]
@@ -222,6 +162,11 @@
   },
   "active": "9f0e0e275044edf7",
   "lastOpenFiles": [
+    "2023-05-30.md",
+    "Buenas Practicas.md",
+    "Atributos.md",
+    "ciclo de vida.md",
+    "Abstraccion.md",
     "README.md",
     "Untitled.md",
     "Sustitucion de liskov.md",
@@ -230,11 +175,8 @@
     "Sobrecarga.md",
     "Principio de diseño.md",
     "Patrón de diseño.md",
-    "Buenas Practicas.md",
     "Semana 1/Programación II.md",
     "Diagrama de clases.md",
-    "Abstraccion.md",
-    "ciclo de vida.md",
     "Responsabilidad Única.md",
     "Objetos.md",
     "Diagrama de Classes.md",
@@ -245,11 +187,9 @@
     "private.md",
     "protected.md",
     "Conceptos.md",
-    "2023-05-30.md",
     "Untitled 3.canvas",
     "Untitled 2.canvas",
     "Cohesión.md",
-    "Atributos.md",
     "Métodos.md",
     "Untitled 1.canvas",
     "Untitled 4.canvas",
