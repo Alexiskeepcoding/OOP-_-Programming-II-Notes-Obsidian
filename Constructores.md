@@ -1,0 +1,1 @@
+Es una subrutina cuya misión es inicializar los [[Objetos]] de una [[Clase]].
